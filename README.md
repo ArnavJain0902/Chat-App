@@ -1,4 +1,4 @@
-# Real-Time Chat Application
+# Chat Application
 
 A chat application built with React.js and Node.js, featuring instant messaging capabilities and a clean user interface.
 
